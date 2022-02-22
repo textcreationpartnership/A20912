@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lawes and ordinances militarie sett downe and established by the right excellente Robert Earle of Leycester ... ; to be obserued by all suche as shall serue in Her Maiest. Armie vnder him in the saide countries.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20912</idno>
+            <idno type="STC">STC 7287.7</idno>
+            <idno type="STC">ESTC S4208</idno>
+            <idno type="EEBO-CITATION">23378645</idno>
+            <idno type="OCLC">ocm 23378645</idno>
+            <idno type="VID">26614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26614)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1813:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lawes and ordinances militarie sett downe and established by the right excellente Robert Earle of Leycester ... ; to be obserued by all suche as shall serue in Her Maiest. Armie vnder him in the saide countries.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Leicester, Robert Dudley, Earl of, 1532?-1588.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Andries Verschout,</publisher>
+                  <pubPlace>Imprinted at Leyden :</pubPlace>
+                  <date>the xxv. of Januarie. 1586 [25 Jan. 1586]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ C².</note>
+                  <note>Includes marginal notes.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History, Military --  1485-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:26614:1"/>
+            <pb facs="tcp:26614:1" rendition="simple:additions"/>
+            <p>
+               <hi>LAVVES and Ordinances militarie,</hi> ſett downe and eſtabliſhed by the right excellente <hi>ROBERT</hi> Earle of <hi>LEYCESTER,</hi> Baron of Denbigh, Iuſtice of Oyer and ter<g ref="char:EOLhyphen"/>miner of her <hi>Maieſties</hi> Foreſtes, Chaces and Par<g ref="char:EOLhyphen"/>kes on thiſſide Trente, Maiſter of the Horſe to the <hi>Queenes</hi> moſte Excellente <hi>Maieſtie</hi> One of the Lordes of her moſte honorable priuie Coun<g ref="char:EOLhyphen"/>ſaile, Knight of bothe noble Orders, of the Garter and S. Michaell: her Highenes Lieute<g ref="char:EOLhyphen"/>nant and Captaine <hi>GENERAL</hi> of her <hi>Maieſt.</hi> Armie and Forces in the lowe Countries: And Go<g ref="char:EOLhyphen"/>uernour <hi>GENERAL</hi> of all the Prouin<g ref="char:EOLhyphen"/>cies and Cities vnited in the ſaide lowe Countries, and there aſſociates.</p>
+            <p>
+               <hi>To be obſerued by all ſuche as ſhall ſerue in her Maieſt. Armie vnder him in the ſaide Countries.</hi>
+            </p>
+            <p>Imprinted at Leyden by Andries Verſchout / the xxv. of Ianuarie. <hi>1586.</hi> de ſtilo nouo.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:26614:2"/>
+            <pb n="1" facs="tcp:26614:2"/>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuche as there is not any Eſtate, which in peace or warre can be ac<g ref="char:EOLhyphen"/>counted ſure, or preſerued from diſhonour &amp; ruine, vnleſſe it bee ſupported and borne vp by Iuſtice duely adminiſtred, and diſcipline orderly obſerued: And for that no man can be ſo ignorant as not to knowe, that honor, fame and proſperitie, doe duely follow that common Wealth or Nation, wherein good lawes are eſtabliſhed, the Magiſtrate miniſtring Iuſtice is duely regarded, and the people fearing to offende, are drawen vnder the rules of Iuſtice and obedience: And ſeeing that martiall diſcipline aboue al things (pro<g ref="char:EOLhyphen"/>per to men of warre) is by vs at this time moſt to be folowed, aſwell for the aduanceme<g ref="char:cmbAbbrStroke">̄</g>t of Gods glorie, as honourablie to gouerne this Armie in good order: And leaſt that the euill inclined (pleading ſimplicicie) ſhould co<g ref="char:EOLhyphen"/>uer any wicked facte by ignorance: There<g ref="char:EOLhyphen"/>fore theſe martiall Ordinances and Lawes followinge are eſtabliſhed and publiſhed, whereby all good mindes endeuouringe to attaine honour, may ſtand armed, and receiue
+<pb n="2" facs="tcp:26614:3"/>encouragement to perſeuere in well doing, &amp; ſuch as are inclined to lewdeneſſe, be war<g ref="char:EOLhyphen"/>ned from committing offences puniſhable. which being embraced with carefull reſpect, and followed with obedie<g ref="char:cmbAbbrStroke">̄</g>ce, doe promiſe good order and agreeme<g ref="char:cmbAbbrStroke">̄</g>t amongſt our ſelues, with victorie and good eue<g ref="char:cmbAbbrStroke">̄</g>ts againſt our enemies.</p>
+            <p n="1">
+               <hi>1</hi> Firſt,
+<note place="margin">Blaſphencers.</note> Forſomuch as the holy Name of our moſt mightie and inuincible God, with all reuerence ought to be regarded, and that deſtruction is pronounced to ſuche as blaſ<g ref="char:EOLhyphen"/>pheme or abuſe the ſame: it is therefore ordei<g ref="char:EOLhyphen"/>ned and commanded, that no perſon whatſo<g ref="char:EOLhyphen"/>euer, either in common conference or commu<g ref="char:EOLhyphen"/>nication, or for any cauſe whatſoeuer, ſhall blaſpheme, or take his Name in vaine, vpon paine of loſſe of v.s. to the releefe of the poore for the firſt offence: for the ſeconde, fiue dayes inpriſonment: for the third, loſſe of his place and wages.</p>
+            <p n="2">
+               <hi>2</hi> And becauſe the continuall and vnſpea<g ref="char:EOLhyphen"/>keable fauours of our Almightie God,
+<note place="margin">Diuine ſeruice.</note> by our vnthankfulneſſe may be taken from vs, and that no good euent of any action can be expec<g ref="char:EOLhyphen"/>ted, wherein God is not firſt and principally honored and ſerued: It is therefore eſpecially ordeyned and commaunded, that all perſons whatſoeuer, ſhall vpon general warning gi<g ref="char:EOLhyphen"/>uen either by ſound of Trompet or Drum, re<g ref="char:EOLhyphen"/>paire to the place appointed, where the Diuine
+<pb n="3" facs="tcp:26614:3"/>ſernice is to be vſed, there to heare the ſame read and preached, vnleſſe for the preſent by ſickneſſe or other ſeruice he be impeached, vpon paine to loſe his dayes wages for the firſt, two danes wages for the ſecond, and ſo to be encreaſed by the diſcretion of the Iudge, and for euery ſuch default in the Souldier, aſ<g ref="char:EOLhyphen"/>well the Captaine as his inferiour officers, to be puniſhed with like penaltie.</p>
+            <p n="3">
+               <hi>3</hi> And ſeeing it well beſeemeth all Chri<g ref="char:EOLhyphen"/>ſtians,
+<note place="margin">Vnlat full ga<g ref="char:EOLhyphen"/>mes.</note> eſpecially ſuch as profeſſe the militarie ſeruice, to paſſe away the time in matters re<g ref="char:EOLhyphen"/>quiſite for their profeſſion: And becauſe no ti<g ref="char:EOLhyphen"/>me can be more vainely ſpent, then that which is conſumed in vnlawfull games, be<g ref="char:EOLhyphen"/>ſides the breeding of much contention and quarrelles: And for that there be many allo<g ref="char:EOLhyphen"/>wable and commendable exerciſes for all for<g ref="char:EOLhyphen"/>tes of men to vſe: Therefore it is ſtreightly commanded, that no priuate Souldiouror inferiour Officer ſhal play at Dice and Car<g ref="char:EOLhyphen"/>des, nor any other vnlawfull games, vpon paine of two dayes impriſonment for the firſt time, and for after committing the like, to bee further puniſhed by the Iudges diſcretion.</p>
+            <p n="4">
+               <hi>4</hi> And for that it often happeneth,
+<note place="margin">Vagrant woe<g ref="char:EOLhyphen"/>men.</note> that by permitting of many vagrant &amp; idle wo<g ref="char:EOLhyphen"/>men in an armie, ſundry diſorders and horri<g ref="char:EOLhyphen"/>ble abuſes are committed: Therefore it is or<g ref="char:EOLhyphen"/>deined that no man ſhall carrie into the fiel<g ref="char:EOLhyphen"/>de, or deteine with him in the place of his
+<pb n="3" facs="tcp:26614:4"/>garriſon, any woman whatſoeuer, other then ſuch as be knowen to be his lawful wife, or ſuch other women to tende the ſicke and to ſerue for launders, as ſhall be thought meete vp the Marſhall, vpon paine of whipping and baniſhment.</p>
+            <p n="5">
+               <hi>5</hi> And inſomuch as clemencie amongſt men of warre in ſome reſpectes is a ſinguler vertue:
+<note place="margin">Woemen with Childe. Aged perſons. Midowes. Dirgins. Babes.</note> It is ordeined that no man in any part of this ſeruice that he ſhall doe, ſhal lay violent handes vpon any woman with chil<g ref="char:EOLhyphen"/>de, or lying in childebed, olde perſons, wido<g ref="char:EOLhyphen"/>wes, yong virgins, or babes, without eſpe<g ref="char:EOLhyphen"/>ciall order from the Magiſtrate, vpon paine of death.</p>
+            <p n="6">
+               <hi>6.</hi> Noe man of what degree ſo euer he be,
+<note place="margin">Violent defyling of women.</note> ſhall enforce any wife, widowe, maide or virgin, and by violence defile anie of them vppon paine of death.</p>
+            <p n="7">
+               <hi>7</hi> What perſon ſoeuer that ſhall be com<g ref="char:EOLhyphen"/>monly giuen to drunkenneſſe,
+<note place="margin">Dronkenes and riotuouſurs.</note> or riotouſly be<g ref="char:EOLhyphen"/>haue himſelfe, ſhall be baniſhed the Armie.</p>
+            <p n="8">
+               <hi>8</hi> Whoſoeuer ſhall conceale, or in any ſort kepe ſecrete,
+<note place="margin">Concealement of treaſon. Conſpiracie.</note> Treaſon, any dangerous conſpi<g ref="char:EOLhyphen"/>racie, or other practiſe which may be hurtfull, and may concerne the peril of her Maieſties perſon and realme, or of her General, or the eſtate of this Armie, and ſhall not with all diligence reueale the ſame either vnto the Ge<g ref="char:EOLhyphen"/>nerall, or ſome other Officer of eſpeciall truſt, ſhal incurre the paines of death with torme<g ref="char:cmbAbbrStroke">̄</g>ts.</p>
+            <pb n="4" facs="tcp:26614:4"/>
+            <p n="9">
+               <hi>9</hi> If anie man whatſoeuer ſhall practice and conſpire anie thinge to the hurte or perill of her Maicſties perſon,
+<note place="margin">Treaſon and Conſpiracy.</note> and realme or of her Generall, or the eſtate of this Armie, and be therof laufullie convinced, ſhall ſuffer death with torments.</p>
+            <p n="10">
+               <hi>10</hi> No man ſhall haue ſpeeche or confe<g ref="char:EOLhyphen"/>rence, ſend meſſage,
+<note place="margin">Conference / or writinge with or to the Ennemie.</note> deliuer or receiue letters to or from the enemie, or any his confedera<g ref="char:EOLhyphen"/>tes, either ſecretly or openly, without mani<g ref="char:EOLhyphen"/>feſting the ſame preſently vnto the Generall or Marſhall, or hauing former authoritie ſo to doe, vpon paine of death.</p>
+            <p n="11">
+               <hi>11</hi> No man being in this ſeruice ſhal de<g ref="char:EOLhyphen"/>part the Campe or place of Garriſon for any cauſe whatſoeuer,
+<note place="margin">Departinge from the Camp or the Garriſon with<g ref="char:EOLhyphen"/>out leaue.</note> without the Generals eſ<g ref="char:EOLhyphen"/>peciall Paſport, or other head Officer autho<g ref="char:EOLhyphen"/>riſed, vpon paine of death.</p>
+            <p n="12">
+               <hi>12</hi> No man ſhall breake out,
+<note place="margin">Breakinge order of the ranke.</note> or leaue the order of his ranke, being once ordered in the fielde by the Marſhall or Sergeant Maior, without ſome great occaſion firſt made kno<g ref="char:EOLhyphen"/>wen vnto the ſaide Officer, vpon paine of loſſe either of life or limne, at the diſcretion of the Generall or of the Marſhall.</p>
+            <p n="13">
+               <hi>13</hi> No man appointed to watch or war<g ref="char:EOLhyphen"/>de, ſhall ſhun or depart the place,
+<note place="margin">Watch worde neglected.</note> neither ſhall ſleepe, or neglect his duetie therein, eſpecially after the watch is ſet and the woorde giuen, vnleſſe he be orderly relieued, or for ſome great occaſion enforced, with licence of his
+<pb n="6" facs="tcp:26614:5"/>Captaine or Officer, vpon paine of death.</p>
+            <p n="14">
+               <hi>14</hi> No man ſhall bewray the watchwor<g ref="char:EOLhyphen"/>de to the enemie or to any other,
+<note place="margin">Watchworde be<g ref="char:EOLhyphen"/>wrated.</note> or giue any other worde then is deliuered by the Officer, vpon paine of death with torment.</p>
+            <p n="15">
+               <hi>15</hi> No man ſhal raiſe any mutinie,
+<note place="margin">Mutynie / or un<g ref="char:EOLhyphen"/>lauful affemblies</note> or procure vnlawfull aſſemblies vpon priuate, ſecrete, or hidden purpoſe, whereby to diſtur<g ref="char:EOLhyphen"/>be the peace and quiet of the Armie, vpon paine of death.</p>
+            <p n="16">
+               <hi>16</hi> Noe man ſhall lift vp his weapon againſt the Magiſtrate,
+<note place="margin">Weapon againſt Magiſtrats.</note> his Captaine or Of<g ref="char:EOLhyphen"/>ficer, vpon paine of death.</p>
+            <p n="17">
+               <hi>17</hi> No man ſhall quarell,
+<note place="margin">Quarrelinge or fraiemakinge in Campe / or Tow<g ref="char:EOLhyphen"/>ne of garriſon.</note> brauwle, or ma<g ref="char:EOLhyphen"/>ke any fray within the Campe or Towne of garriſon, vpon olde malice, or newe occa<g ref="char:EOLhyphen"/>ſion whatſoeuer, but ſhall complaine to the Officer, who is to decide the cauſe and puniſh the partie offending, vpon paine of loſſe of life or limme, at the diſcretion of the Generall or Marſhall.</p>
+            <p n="18">
+               <hi>18</hi> And whereas ſundrie nations are to ſerue with vs in theſe warres,
+<note place="margin">Forreiner abuſed vp Engliſh men.</note> ſo as through diuerſitie of languages occaſion of many con<g ref="char:EOLhyphen"/>trouerſies may ariſe or happen to growe: It is therefore ordeined, that if any perſon of Engliſh nation ſhall finde him ſelfe agrieued with any wrong profered him by any forrei<g ref="char:EOLhyphen"/>ner, that then without profering further re<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g>ge hee ſhall ſignifie the ſame vnto his Cap<g ref="char:EOLhyphen"/>taine or other officer, whereby order man be
+<pb n="7" facs="tcp:26614:5"/>taken ſo, as no further quarrell growe thereof, but that quietneſſe in all reſpectes may be pre<g ref="char:EOLhyphen"/>ſerued, vpon paine of ſuch puniſhment as the head officers ſhall thinke meete, either by loſ<g ref="char:EOLhyphen"/>ſe of life or limme.</p>
+            <p n="19">
+               <hi>19</hi> No man appointed to the defence of any Breach, Trench, or Streight,
+<note place="margin">Leavinge breach / trench or ſtreight vppon fained excuſe.</note> either Captaine or Souldiour, ſhall willingly leaue it, or vpon any falſe or imagined cauſe or excuſe ſhall ab<g ref="char:EOLhyphen"/>ſent himſelfe from the place, without ſufficient warrant, vpon paine of death.</p>
+            <p n="20">
+               <hi>20</hi> No man ſhail enrolle his name vnder two Captaines,
+<note place="margin">Souldier enrol<g ref="char:EOLhyphen"/>led vnder two Captaines.</note> nor muſter in ſeuerall compa<g ref="char:EOLhyphen"/>nies at one time, or otherwiſe paſſe in an other mans name, or lende armour, weapon, or other furniture vpon the muſter day, whereby to abuſe her Maieſtie, and weaken the preſent ſeruice, vpon paine of a moneths impriſon<g ref="char:EOLhyphen"/>ment, and baniſhment.</p>
+            <p n="21">
+               <hi>21</hi> No man ſhall embezill or deminiſh any of his Armour, weapon and furniture,
+<note place="margin">Armour embezil<g ref="char:EOLhyphen"/>led / dyminiſhed / or pawned.</note> which is appointed him by his Captaine, vnleſſe he can prooue that he loſt the ſame in ſeruice. And that no man ſhall take in pawne any Soul<g ref="char:EOLhyphen"/>diours weapon or furniture, vpon paine to the Souldiour of loſſe of his place, and to the o<g ref="char:EOLhyphen"/>ther that ſhall take it in pawne, the loſſe of the double value.</p>
+            <p n="22">
+               <hi>22</hi> No man ſhall play away, engage,
+<note place="margin">Playing awaie of Armour.</note> or lende away his furniture, but ſhall alwayes keepe his Armour and weapon cleane and
+<pb n="8" facs="tcp:26614:6"/>ſeruiceable, vpon paine of being diſcharged.</p>
+            <p n="23">
+               <hi>23</hi> No man ſhall deceitfully take away his companions prouiſion,
+<note place="margin">Pilfering of his fellowes victuals</note> victuals, or furniture, vpon paine of impriſonment.</p>
+            <p n="24">
+               <hi>24</hi> No perſon trancyling,
+<note place="margin">Forceable trac<g ref="char:EOLhyphen"/>tion of victuals or goodes.</note> lodging, or abi<g ref="char:EOLhyphen"/>ding in any the Townes or Contreis of her Maieſties friendes or Allies, ſhall in any wi<g ref="char:EOLhyphen"/>ſe exact or take by force from the people either victual or other their goods whatſoeuer, with<g ref="char:EOLhyphen"/>out preſent payment, or other ſufficient or<g ref="char:EOLhyphen"/>der to the iuſt ſatiſfaction of the partie, vpon paine of death.</p>
+            <p n="25">
+               <hi>25</hi> No man ſhall foreſtall any victuals brought for the Campe or place of garriſon,
+<note place="margin">Victuals foreſtalled.</note> but ſuffer the ſame peaceably to come into the Market place, there to bee rated and priced by the Marſhall or his officer, before he buy the ſame, vpon paine of death.</p>
+            <p n="26">
+               <hi>26</hi> No man ſhall robbe or ſpoyle any Shop or Tent,
+<note place="margin">Robbing or ſpoi<g ref="char:EOLhyphen"/>linge of vitler or Marchant.</note> or any victualler or Marcha<g ref="char:cmbAbbrStroke">̄</g>t comming for reliefe of the Campe or garriſon, but in all good ſort ſhall entertaine and de<g ref="char:EOLhyphen"/>fend them, vpon paine of death.</p>
+            <p n="27">
+               <hi>27</hi> No Souldiour commaunded at any time to take victuals for certaine dayes,
+<note place="margin">Excrabing the dates for takinge of victuals.</note> ſhall exceede the ſame dayes, or ſpe<g ref="char:cmbAbbrStroke">̄</g>d the ſame other wiſe then according to the proportions and time allowed him; vpon paine of impriſon<g ref="char:EOLhyphen"/>ment, or other ſuch puniſhme<g ref="char:cmbAbbrStroke">̄</g>t as the lawfull officers ſhal appoint.
+<note place="margin">None to be ſpoi<g ref="char:EOLhyphen"/>led beinge of the Generalls pro<g ref="char:EOLhyphen"/>tection.</note>
+            </p>
+            <p n="28">
+               <hi>28</hi> No man ſhall diſtreſſe or ſpoyle any
+<pb n="9" facs="tcp:26614:6"/>perſon ſtanding on her Maieſties partie, or beinge vnder the Generals protection, vpon paine of death.</p>
+            <p n="29">
+               <hi>29</hi> No man ſhall diſobey or tranſgreſſe any Proclamation made by Drumnie or Trumpet, ſet foorth by the Generall,
+<note place="margin">Proclamation tranſgreſſed.</note> vppon ſuch paine as he ſhall ſet foorth.</p>
+            <p n="30">
+               <hi>30</hi> No man ſhall reſiſt the Prouoſt or his other officer in apprehending of any malefac<g ref="char:EOLhyphen"/>tour, but if neede require,
+<note place="margin">Reſiſtinge the apprehenſion of Malefactor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſhall ayde and aſſiſt him therein, or otherwiſe if by ſuche occaſion any eſcape be made, it is ordeined that euery perſon by whoſe defaulte the eſcape was com<g ref="char:EOLhyphen"/>mitted, ſhall ſuffer like puniſhment that the parties ſo eſcaped ſhoulde haue endured.</p>
+            <p n="31">
+               <hi>31</hi> No man ſhall moleſt or trouble any perſon being vnder his owne regiment,
+<note place="margin">Diſturbance of any there lod<g ref="char:EOLhyphen"/>ginges.</note> or the leading of any other, once placed by the Mar<g ref="char:EOLhyphen"/>ſhall, forrier, or Herbinger in the Campe or Towne, but quietly to permit and ſuffer eue<g ref="char:EOLhyphen"/>ry one to enioye his ſeuerall roome or lodging, vnleſſe it be by mutuall conſent and agree<g ref="char:EOLhyphen"/>ment, neither ſhall any man lodge out of his Captaines quarter without licence, vppon paine of impriſonment.</p>
+            <p n="32">
+               <hi>32</hi> No man ſhall ouerthrowe or deſtroye any water Milles or water workes without ſpeciall commaundement of the Generall,
+<note place="margin">Water Milles.</note> or other heade Officer vppon paine of death.</p>
+            <p n="33">
+               <hi>33</hi> No ma<g ref="char:cmbAbbrStroke">̄</g> contrarie to order ſhall ſet on fire
+<pb n="10" facs="tcp:26614:7"/>or burne any houſe,
+<note place="margin">Burnynge vp fyre.</note> milne, or corne, nor at diſlodging or remoouing ſhall ſet the Campe on fire, without ſpeciall commaundement from the General or other head Officer pre<g ref="char:EOLhyphen"/>ſent, vpon paine of death.</p>
+            <p n="34">
+               <hi>34</hi> No man ſhall make anie owterie or noiſe in any watch,
+<note place="margin">Silence in match warde or Am<g ref="char:EOLhyphen"/>buſh.</note> warde, Ambuſhe, or anie other place where ſilence is requiſite and ne<g ref="char:EOLhyphen"/>ceſſarie, vppon paine of loſſe of uſe or lymme, at the generals diſcretion.</p>
+            <p n="35">
+               <hi>35</hi> No man without great occaſion ſhall make any Alarme,
+<note place="margin">Alarme.</note> but if any chance to ariſe, then ſhall euery man preſently repaire in all haſte vnto his appointed place, vnleſſe ſome true excuſable cauſe doe hinder him, vpon pai<g ref="char:EOLhyphen"/>ne of death.</p>
+            <p n="36">
+               <hi>36</hi> No man ſhall harbour or receiue into his lodging any perſon being a ſtranger,
+<note place="margin">Harboring of Strangers not in paie.</note> or of our owne nation not being enrolled in her Maieſties paye, but ſhall preſently acquaint the Generall or Marſhall with his name, countrey, the time of his comming, and bu<g ref="char:EOLhyphen"/>ſines, vpon paine of impriſonment, and loſſe of his place and wages.</p>
+            <p n="37">
+               <hi>37</hi> No man ſhall talke or haue conuer<g ref="char:EOLhyphen"/>ſation with any Trumpetter or Druminer of the enemies,
+<note place="margin">Talkinge with the Enemies Trumpeters.</note> or other ſent in meſſage, but ſuch as bee appointed by the Generall, vpon paine of death.
+<note place="margin">Attendance vp<g ref="char:EOLhyphen"/>pon Cariagies.</note>
+            </p>
+            <p n="38">
+               <hi>38</hi> No man ſhal attende vpon the ca<g ref="char:EOLhyphen"/>riages,
+<pb n="11" facs="tcp:26614:7"/>but ſuch as are appointed to that charge, neither linger, or loyter behinde with them to ride or eaſe themſelues, vnleſſe it be ſuch as by ſickeneſſe, hurtes, or other infirmi<g ref="char:EOLhyphen"/>ties knowe<g ref="char:cmbAbbrStroke">̄</g> to the officers, to be permitted ſo, vpon paine of impriſonme<g ref="char:cmbAbbrStroke">̄</g>t, &amp; loſſe of wages.</p>
+            <p n="39">
+               <hi>39</hi> No man ſhall attempt to goe a forra<g ref="char:EOLhyphen"/>ging,
+<note place="margin">Foraginge.</note> without the officer appointed for that purpoſe deliuer them a ſufficient guarde for their defence, vpon paine of death.</p>
+            <p n="40">
+               <hi>40</hi> Euery Souldier ſhall preſent ſuch priſoners as are taken,
+<note place="margin">Souldiers priſoner.</note> to their Captaine im<g ref="char:EOLhyphen"/>mediatly at their returne to the Campe, and none ſhall either kill them, or licenſe them to depart, without commaundement or leaue from the Generall, or other head Officer the<g ref="char:EOLhyphen"/>reunto appointed, vpon paine of being diſar<g ref="char:EOLhyphen"/>med, and baniſhed the Campe.</p>
+            <p n="41">
+               <hi>41</hi> Euery Souldier at all times in ſer<g ref="char:EOLhyphen"/>uice ſhalbe obedient and faithfull,
+<note place="margin">Obedience of the Souldier to his Captaine or his deputie.</note> aſwell to their Captaines as other inferiour Officers, &amp; not to refuſe direction of any, vnder whom they are appointed to ſerue, vpon paine of impriſonment, and loſſe of a moneths wages. And whenſoeuer anie Captaine of anie ban<g ref="char:EOLhyphen"/>de ſhall vppon vrgent cauſes appointe in his abſence anie other whome he ſhall thinke good to ſupplie and execute his roome of cap<g ref="char:EOLhyphen"/>tainſhip, euery man owght to followe and oven the ſaide deputie with noe leſſe care and diligence, then they woulde the Captaine
+<pb n="12" facs="tcp:26614:8"/>him ſelf vppon the ſame paine.</p>
+            <p n="42">
+               <hi>42</hi> Euery man ſhall ſupport and defende his owne Enſigne both night and day,
+<note place="margin">Supporting the Enſigne.</note> and ſhall reſort vnto the ſame vpon the firſt war<g ref="char:EOLhyphen"/>ning, and not depart vntill it be brought into ſafetie, vpon paine of death.</p>
+            <p n="43">
+               <hi>43</hi> Euery ſouldier ſhal diligently obſerue and learne the ſound of Drums,
+<note place="margin">Sounde of Drum<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fifte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Trumpet to be learned.</note> Fiftes, and Trumpets, to the end he may knowe howe to anſwere the ſame in his ſeruice.</p>
+            <p n="44">
+               <hi>44</hi> No man ſhall ſlaughter or kill any beaſt of what nature ſoeuer within the Cam<g ref="char:EOLhyphen"/>pe or Garriſon,
+<note place="margin">Slawghter of beaſtes.</note>
+               <note place="margin">Garbage.</note> but in ſuch places as are ap<g ref="char:EOLhyphen"/>poynted for that purpoſe,
+<note place="margin">Waters vnde<g ref="char:EOLhyphen"/>filed.</note> nor ſhall ſuffer the garbage to remaine vnburied, neither ſhall any man trouble or defile the waters adioy<g ref="char:EOLhyphen"/>ning, but in the lower part of the ſtreame ſo<g ref="char:EOLhyphen"/>me good diſtance from the Campe, vpon pai<g ref="char:EOLhyphen"/>ne of impriſonment.</p>
+            <p n="45">
+               <hi>45</hi> No man ſhall eaſe himſelfe or defile the Campe or Towne of Garriſon,
+<note place="margin">Eaſementes.</note> ſaue in ſuch places as is appointed for that purpoſe, vpon paine of impriſonment, and ſuch further puniſhment, as ſhall be thought meete by the chiefe Officers.</p>
+            <p n="46">
+               <hi>46</hi> If any man doe take a priſoner or bootie,
+<note place="margin">Priſoners and booties certified.</note> he ſhall immediately after hee is re<g ref="char:EOLhyphen"/>turned vnto the Campe or Towne of Garri<g ref="char:EOLhyphen"/>ſon, make his Captaine or Gouernour ac<g ref="char:EOLhyphen"/>quainted therewith, and the Captaine ſhall declare the ſame vnto the Marſhall, who
+<pb n="13" facs="tcp:26614:8"/>euery eight dayes ſhall make certificate the<g ref="char:EOLhyphen"/>reof vnto the Generall, vpon paine of impri<g ref="char:EOLhyphen"/>ſonment, and further puniſhment as the Ge<g ref="char:EOLhyphen"/>nerall ſhall ſet downe.</p>
+            <p n="47">
+               <hi>47</hi> In Marching by the fieldes,
+<note place="margin">Crie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> att the put<g ref="char:EOLhyphen"/>tinge vp of any hare.</note> no man at the putting vp of any Hare, or any other beaſt ſhal make any ſhout or crie, whereby to diſquiet or ſtay the reſt of the hands, but to vſe all quietneſſe and ſilence in their march, vpon paine of impriſonment.</p>
+            <p n="48">
+               <hi>48</hi> No man ſhall giue vp or deliuer vnto the enemies any place left to his charge or keeping, vpon paine of death.
+<note place="margin">Place of charge / geuen to the Ene<g ref="char:EOLhyphen"/>mie.</note>
+            </p>
+            <p n="49">
+               <hi>49</hi> If any man flie to the enemies,
+<note place="margin">Flyinge / to the Enemie.</note> or be taken vpon his departure towards them, he ſhall ſuffer death.</p>
+            <p n="50">
+               <hi>50</hi> That no perſon whatſoeuer ſhall paſſe by any other way either in Towne or Campe,
+<note place="margin">Paſſage by ordy<g ref="char:EOLhyphen"/>narie waie.</note> but at the ordinarie gates and paſſa<g ref="char:EOLhyphen"/>ges, vpon paine of death.</p>
+            <p n="51">
+               <hi>51</hi> That all heraults of Armes ſhall doe there meſſagies,
+<note place="margin">Heraults.</note> and make proclamation at ſuch times and places and in ſuch order with<g ref="char:EOLhyphen"/>out addicion, dymynucion or alteracion, ac<g ref="char:EOLhyphen"/>cordinge vnto there direction and commiſſion from the generall, vppon paine to be inflicted at the generals diſcretion, accordinge to the qualitie of there faulte.</p>
+            <div type="part">
+               <pb n="14" facs="tcp:26614:9"/>
+               <head>Captaynes,</head>
+               <p n="52">
+                  <hi>52</hi> No Captaine,
+<note place="margin">Entricinge of a Souldire from his Captaine.</note> Officer, or other per<g ref="char:EOLhyphen"/>ſon, ſhal receiue or entertaine any other mans Souldiour or ſeruant, without conſent of his former Captaine or Mayſter, neither ſhall entice an other mans Souldiour from him, vpon paine of loſſe of a Monethes wages, and to reſtore the partie to his former Cap<g ref="char:EOLhyphen"/>taine or Maiſter.</p>
+               <p n="53">
+                  <hi>53</hi> No Captaine ſhall ſende foorth any men to doe any enterpriſe,
+<note place="margin">Doinge any En<g ref="char:EOLhyphen"/>treprice without the generals knowledg.</note> without know<g ref="char:EOLhyphen"/>ledge of the Generall, or chiefe officer appoin<g ref="char:EOLhyphen"/>ted thereunto, vpon paine of loſſe of his place.</p>
+               <p n="54">
+                  <hi>54</hi> All priuate Captaines,
+<note place="margin">Watch and ward vp priuate Cap<g ref="char:EOLhyphen"/>taines.</note> being no head Officers, ſhal watch and warde with their Enſignes, vnleſſe it be by ſpeciall leaue, vpon paine of the loſſe of a monethes paye, and for the ſecond time, loſſe of his place.</p>
+               <p n="55">
+                  <hi>55</hi> No Captaine ſhall ſell or caunſome his priſoner without licenſe of the Generall,
+<note place="margin">Priſoner caunſo<g ref="char:EOLhyphen"/>med or ſolde.</note> and ſhall not ſuffer them to depart without making the high Marſhall prime to the ſame, vpon paine of loſſe of his priſoner, and im<g ref="char:EOLhyphen"/>priſonment.</p>
+               <p n="56">
+                  <hi>56</hi> Any Captaine finding any Souldier of what band or company ſo euer,
+<note place="margin">Souldier tranſ<g ref="char:EOLhyphen"/>greſſing to be taken vp any Captaine.</note> which hath tranſgreſſed any of theſe Lawes and Ordi<g ref="char:EOLhyphen"/>nances, may take him and bring him vnto the Marſhall to be puniſhed.</p>
+               <pb n="15" facs="tcp:26614:9"/>
+               <p n="57">
+                  <hi>57</hi> That no Captaine ſhall receine or enroll any perſon into his paye vnder him,
+<note place="margin">Souldier ſworne before he be re<g ref="char:EOLhyphen"/>ceaued.</note> but that he cauſe the ſayde Souldier to recei<g ref="char:EOLhyphen"/>ue the othe, vpon paine to the Captaine for not obſeruinge the ſame, of loſſe of a mo<g ref="char:EOLhyphen"/>neths pane.</p>
+               <p n="58">
+                  <hi>58</hi> Noe inferior Captaine ſhall for cor<g ref="char:EOLhyphen"/>ruption,
+<note place="margin">Captaine not to licenſe any ſoul<g ref="char:EOLhyphen"/>dier to departe the Campe.</note> or any other cauſe licenſe any of his ſouldiers to departe the Campe, or Garriſon without ſpeciall licenſe of the Generall, or other hedde Officer, vppon paine of loſſe of his monethes paie, and expulſion out of his office.</p>
+               <p n="59">
+                  <hi>59</hi> If any Captaine hereafter receauinge his ſouldiers paie,
+<note place="margin">Souldiers paie.</note> doe not paie the ſame vnto them within <hi>8.</hi> daies after, and beinge de<g ref="char:EOLhyphen"/>maunded, Then vppon complainte made, and the Captaine therof convicted, he ſhall loſe his monethes paie, and be deprived of his of<g ref="char:EOLhyphen"/>fice, baniſhed the Campe, and diſabled from thenſforth to ſerue in this Armie.</p>
+               <p n="60">
+                  <hi>60</hi> Captaines and Officers ſhall fre<g ref="char:EOLhyphen"/>quent &amp; reforte vnto the Souldiers lodgings to ſee in what ſtate there Armour and Muni<g ref="char:EOLhyphen"/>tions be in,
+<note place="margin">Diſiringe the ſouldiers furni<g ref="char:EOLhyphen"/>ture.</note> And to geue greate charge that there furniture be alwaies in a rediues, the<g ref="char:EOLhyphen"/>re corſtlets with all peeces belonginge to the ſame, and there Caliuers to be made cleane and onled, to haue match and powder drie, and Stringes for there Bowes, there bylls and halberts to be kepte cleane and ſharpe,
+<pb n="16" facs="tcp:26614:10"/>vppon paines and puniſhment arbitrarie, accordinge to the qualitie of there necligence.</p>
+               <p n="61">
+                  <hi>61</hi> All other offences and Actes that may tende to diſorder,
+<note place="margin">Puniſhment of all other Offen<g ref="char:EOLhyphen"/>cies.</note> not compriſed within theſe Articles, ſhalbe ſubiect to ſuch maner of pu<g ref="char:EOLhyphen"/>niſhment, as the Lieutenant Generall ſhall inflict vpon them, as if it had bene ſpecially expreſſed and ſet downe.</p>
+               <p>
+                  <hi>62</hi> And to the intente that no man maie pretende and alleage any iuſte cauſe of igno<g ref="char:EOLhyphen"/>rance of the afore recited lawes and Ordi<g ref="char:EOLhyphen"/>nanceis,
+<note place="margin">Publiſhinge of the Articles.</note> or anie of them, the ſaid lord Gene<g ref="char:EOLhyphen"/>rall dothe ordaine, That all chief Officers, and Captaines of this Armie ſhall cauſe the ſame to be red and publiſhed with in there Bande euerie xx. daies, to all thoſe whitch be vnder there charge reſpectiuelie accordinge to there quarters, eſpeciallie in all thoſe placeis where then ſhall lie in Garriſon, aſwell horſe<g ref="char:EOLhyphen"/>men, as footemen, and to cauſe the ſame to he kepte and obſerued inuiolablie aſmuch as in them lieth in euery branche &amp; article of the ſame, accordinge, to the tenor, forme and effecte therof.</p>
+            </div>
+            <div type="oath">
+               <pb n="17" facs="tcp:26614:10"/>
+               <head>
+                  <hi>The forme of the Othe</hi> Whiche all Officers, Captaines, Soul<g ref="char:EOLhyphen"/>diers, and all other ſeruinge in this Armie ſhall take and performe.</head>
+               <p>I. <hi>A. B.</hi> doe ſweare and promiſe to doe all loyall,
+<note place="margin">Othe.</note> true and faithfull ſeruice vnto the <hi>Quene</hi> of England her moſte excellente <hi>Maieſtie,</hi> and vnto the Prouinces and Cities vnited in theſe Countries, and there aſſociats vnder the charge and obedience of the right excellente the Earle of <hi>LEYCESTER,</hi> Gouernour gene<g ref="char:EOLhyphen"/>rall of the ſaide Prouinces and Cities, &amp; there aſſociats, and of her <hi>Maieſties</hi> armie and forces within the ſame. And all laufull and due obe<g ref="char:EOLhyphen"/>dience vnto the ſaide Gouernour, and to any other ſuperior, that ſhall haue charge vnder him for gouerment in this Armie. And farther I do promiſe to endeuour my ſelf to fulfill and kepe all ſuche laufull Ordinances as his Ex<g ref="char:EOLhyphen"/>cellencie hath or ſhall ſette forth and eſtabliſhe for the better ordering of this Armie, as muche as concerne me, ſo longe as I ſhall ſerue in the ſame vnder him. So helpe me God, by Ieſus Chriſte.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
